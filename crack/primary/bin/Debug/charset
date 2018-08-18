@@ -1,0 +1,10 @@
+-n
+0123456789
+-lc
+abcdefghijklmnopqrstuvwxyz
+-uc
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+-oc
+,./;'[]\-=`<>? :"{}|~!@#$%^&*()_+
+-a
+0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,./;'[]\-=`? :{}~!@#$%^*()_+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1534553082 source:d:\primary\config.cpp
+	"config.h"
+
+1534553082 d:\primary\config.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+
+1534553082 source:d:\primary\main.cpp
+	"config.h"
+
